@@ -1,0 +1,10 @@
+/bin/
+.idea.vcs.xml
+.classpath
+.idea/
+.mymetadata
+.myumldata
+.project
+.settings/*
+WebRoot/WEB-INF/classes/*
+WebRoot/WEB-INF/lib/*
